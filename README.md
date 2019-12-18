@@ -28,3 +28,5 @@ Simple usage with outlined variants of material ui components:
      </div>
    );
 ```
+
+Try it on [this sandbox](https://codesandbox.io/s/serene-satoshi-wjtye).
