@@ -4,16 +4,17 @@
   "license": "MIT",
   "repository": "incepter/react-invisible-element",
   "main": "dist/index.js",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "peerDependencies": {
     "react": "^16.8.6"
   },
   "devDependencies": {
-    "rimraf": "2.6.3",
     "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-optional-chaining": "^7.7.5",
-    "@babel/preset-react": "^7.7.4"
+    "@babel/preset-react": "^7.7.4",
+    "rimraf": "2.6.3"
   },
   "babel": {
     "presets": [

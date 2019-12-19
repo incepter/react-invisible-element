@@ -1,3 +1,6 @@
+###This package will continue in [react-offsets](https://github.com/incepter/react-offsets) 
+
+
 This package contains `useInvisibleRefWidth` hook that accepts a React ref as parameter.
 
 This is used to retrieve the offsetWidth of a ref when it's first rendered in an invisible tree of elements.
